@@ -1,0 +1,1 @@
+The ontology developed in the context of [CTSAConnect project](http://ctsaconnect.org) . It merges and expands the [eagle-i](http://code.google.com/p/eagle-i/) and [vivo](http://vivoweb.org) ontologies in order represent agents, resources and grants with the goal of identifying clinical and base research expertise.
